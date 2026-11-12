@@ -21,6 +21,7 @@ build/
 *.rel
 *.sav
 *.rtc
+*.asm
 
 # OS & editor clutter
 .DS_Store
