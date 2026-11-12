@@ -1,0 +1,28 @@
+# Keep downloaded emulators & compilers local
+tools/
+
+# Ignore compiled ROMs
+*.gb
+*.gbc
+*.pocket
+
+# Ignore build folders and compiler artifacts
+build/
+*.o
+*.obj
+*.ihx
+*.sym
+*.map
+*.lst
+*.noi
+*.cdb
+*.adb
+*.lk
+*.rel
+*.sav
+*.rtc
+
+# OS & editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
